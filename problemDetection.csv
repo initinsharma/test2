@@ -1,0 +1,8 @@
+text_rank,type,collate_Ref_IDs,INCIDENT_THREAD_ID,cust_text,Context,result,prob
+1,Email,170102-000399,75486284,I put in for a advance premium replacement.,,0,0.7609100000000001
+2,Email,170102-000399,75486284,My computer froze when I was submitting the payment.,my computer froze,1,0.797614
+3,Email,170102-000399,75486284,When I refreshed my screen it acted as if I hadn't put one in so I did it again.,,1,0.9254819999999999
+4,Email,170102-000399,75486284,Now my bank shows both holds.,,0,0.7609100000000001
+5,Email,170102-000399,75486284,Can you please cancel one of them?,,0,0.7609100000000001
+6,Email,170102-000399,75486284,I have sent you a picture of both of them on my statement.,,0,0.7609100000000001
+7,Email,170102-000399,75486284,thank you.,,0,0.7609100000000001
